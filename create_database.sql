@@ -1,0 +1,2 @@
+CREATE DATABASE Reading_Rainbow_Bookstore;
+USE Reading_Rainbow_Bookstore;
